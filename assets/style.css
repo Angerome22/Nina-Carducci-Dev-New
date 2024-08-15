@@ -41,6 +41,11 @@ body {
 .social-link img {
 	width: 20px;
 }
+/*modification de la classe qui pose problème sur le contraste*/
+.visually-hidden {
+	visibility: hidden;
+}
+
 
 #about {
 	display: flex;
