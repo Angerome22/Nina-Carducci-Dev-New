@@ -43,7 +43,8 @@ body {
 }
 /*modification de la classe qui pose problème sur le contraste*/
 .visually-hidden {
-	visibility: hidden;
+	font-size: 40px!important;
+	visibility: hidden!important;
 }
 
 
