@@ -44,7 +44,8 @@ body {
 /*modification de la classe qui pose problème sur le contraste*/
 .visually-hidden {
 	font-size: 40px!important;
-	visibility: hidden!important;
+	/*visibility: hidden!important;*/
+	color: black !important;
 }
 
 
